@@ -1,5 +1,5 @@
 import React, { FC, useState } from 'react';
-import Select from '@/components/ui/Select';
+import Select from '@/components/Select';
 import CurrencyList from '@/components/CurrencyList';
 
 interface HomeProps {}
